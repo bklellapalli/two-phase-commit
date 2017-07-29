@@ -1,0 +1,2 @@
+write(A,Test Input 1)
+write(B,Test Input 2)
